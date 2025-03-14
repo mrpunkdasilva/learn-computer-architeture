@@ -10,7 +10,6 @@ Os **elementos** são:
 - Parte lógica do computador, são os algoritmos
 
 > Aquilo que você xinga
-
 ![](Tela-azul-da-morte-Windows-versao-Nana-Gouveia.jpg)
 
 #### Hardware 🔌
@@ -18,9 +17,7 @@ Os **elementos** são:
 - Parte física da máquina, aquela em que é usada para transmitir, guardar e ser o esqueleto do computador.
 
 > Aquilo que você chuta
-
-
-![](0e5d5a1a6a8bf2f10c4a715125466045.gif)
+> ![](0e5d5a1a6a8bf2f10c4a715125466045.gif)
 
 ---
 ### Elementos de Hardware 🔧
@@ -60,9 +57,10 @@ Geração base, foi até a Segunda Guerra (1932 - 1945), os computadores eram:
 - Essencialmente **mecânicos e alguns tinham engrenagens eletromecânicas**. 
 - Exemplos: **Máquina de Pascal** 
 
-![[Pasted image 20240908191302.png]]
+![Pasted image 20240908191302.png](Pasted image 20240908191302.png)
 
 > 💡 **Assista esse vídeo sobre como funcionava a máquina:** https://www.youtube.com/watch?app=desktop&v=CJ7o-ir4R_E
+> {style="note"}
 
 
 ---
@@ -73,7 +71,7 @@ Geração que apareceu impulsionada pela segunda grande guerra (1945 - 1955)
 - Essencialmente usaram as `válvulas`, usando-as ao invés dos `relés` (um componente mecânico que era mais lento que as válvulas). 
 	- Exemplos: ENIAC     
 
-![[Pasted image 20240908191120.png]]
+![](Pasted image 20240908191120.png)
 
 > 💡 **Veja mais sobre o Eniac:** https://youtu.be/6X2B8Z_DCo0?si=1rCeBGrN48Yal49_ 
 
@@ -99,10 +97,11 @@ Foi um matemático que contribuiu para a criação da forma como se faz a arquit
                               Saída  
 ```
 
-> 💡 Veja mais em:
-> -  https://youtu.be/YCe0mX3r9y4?si=1MMYctW2MN8ZgqVx
-> - https://youtu.be/tZ5W2LpdcEw?si=3jCp89cc3G_sq62c
-> - https://youtu.be/Ml3-kVYLNr8?si=gRpWp494K1TnuYDu
+
+> - Veja mais em:
+> <video src="https://youtu.be/YCe0mX3r9y4?si=1MMYctW2MN8ZgqVx"/>
+> <video src="https://youtu.be/tZ5W2LpdcEw?si=3jCp89cc3G_sq62c"/>
+> <video src="https://youtu.be/Ml3-kVYLNr8?si=gRpWp494K1TnuYDu"/>
 
 ---
 ### Segunda Geração 
@@ -115,7 +114,7 @@ Assim, temos que os transistores trouxeram:
 - Menos aquecimento. 
 - Tornou-se mais confiável que as válvulas. 
 
-![[Pasted image 20240908193336.png]]
+![Pasted image 20240908193336](Pasted%20image%2020240908193336.png)
 
 > Confira em: [Manchester's Experimental Transistor Computer, the First Computer to Use Mainly Transistors as Switches](https://www.historyofinformation.com/detail.php?entryid=4074)
 
@@ -126,7 +125,7 @@ Assim, temos que os transistores trouxeram:
 
 Conhecida pelo advento dos **Circuitos Integrados** (CI), assim esses circuitos contêm vários e vários transistores que estão miniaturizados em um único componente, então acabou se tornando mais acessível para os públicos além dos militares, empresas e universidades. 
 
-![[Pasted image 20240908194231.png]]
+![Pasted image 20240908194231](Pasted%20image%2020240908194231.png)
 > Fonte: https://computerscience.chemeketa.edu/cs160Reader/HistoryOfComputers/Generation3.html
 
 > 💡 Veja mais:
@@ -141,7 +140,7 @@ A miniaturização dos chips para uma larga escala e integração dos mesmos. Na
 
 Que por sua vez, nessa geração, tomou o nome de `microprocessadores`, criado inicialmente pela INTEL. Eles vieram como uma solução poderosa que continha todos os componentes que um computador precisava de um processador: **unidade central de processamento**, **controladores de memória e de E/S**. 
 
-![[Pasted image 20240908194448.png]]
+![Pasted image 20240908194448](Pasted%20image%2020240908194448.png)
 > Fonte: https://chauman4.weebly.com/fourth-generation-computers.html
 
 > 🗒️ Nota:
