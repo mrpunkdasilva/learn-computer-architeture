@@ -1,1 +1,1 @@
-# Learn Architecture Computer# learn-computer-architeture
+# Learn Architecture Computer
