@@ -6,7 +6,8 @@
                  name="Arquiteture Computer" start-page="10.md">
 
     <toc-element topic="10.md"/>
-    <toc-element topic="00-EvolutionofComputers.md"/>
+    <toc-element toc-title="Domus 1">
+        <toc-element topic="00-EvolutionofComputers.md"/>
         <toc-element topic="01-System.md"/>
         <toc-element topic="02.md"/>
         <toc-element topic="03.md"/>
@@ -15,6 +16,6 @@
         <toc-element topic="06.md"/>
         <toc-element topic="07.md"/>
         <toc-element topic="08.md"/>
-        <toc-element topic="09.md">
-        </toc-element>
+        <toc-element topic="09.md"/>
+    </toc-element>
 </instance-profile>
