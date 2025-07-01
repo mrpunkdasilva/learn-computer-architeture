@@ -1,0 +1,1 @@
+Você já se perguntou como um chip de computador é "gravado"? Não é como um CD! É um processo complexo que começa com o design em HDLs. Descubra os bastidores da fabricação de chips no nosso projeto: [Link para o Projeto] #FabricacaoDeChips #Semicondutores #Hardware #Curiosidade

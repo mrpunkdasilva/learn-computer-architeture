@@ -1,0 +1,1 @@
+💡 Dica de programação: Ao escrever código, tente minimizar o número de vezes que você acessa a memória principal. Manter dados importantes em variáveis locais pode ajudar o compilador a usar registradores, resultando em código mais rápido! Nosso projeto explica o porquê. Confira: [Link para o Projeto] #OtimizacaoDeCodigo #Programacao #DesempenhoSoftware #CarreiraTech

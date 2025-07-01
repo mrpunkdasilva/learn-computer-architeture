@@ -1,0 +1,1 @@
+Você já se perguntou por que formatar um disco apaga os dados, mas eles ainda podem ser recuperados? É porque a formatação apenas remove o "índice" do sistema de arquivos, não os dados em si! Descubra os detalhes no nosso projeto: [Link para o Projeto] #RecuperacaoDeDados #Forensics #Seguranca #Curiosidade

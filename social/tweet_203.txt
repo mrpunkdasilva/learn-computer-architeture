@@ -1,0 +1,1 @@
+💡 Dica de design: Ao projetar chips complexos, a escolha da topologia da NoC (mesh, torus, tree) é crucial para o desempenho e consumo de energia. É um campo fascinante da engenharia de hardware! Nosso projeto te dá a base para entender isso. Confira: [Link para o Projeto] #DesignDeChips #Hardware #Engenharia #NoC

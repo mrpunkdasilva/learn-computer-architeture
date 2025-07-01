@@ -1,0 +1,1 @@
+💡 Dica de programação: Se você trabalha com cálculos financeiros ou científicos, entender a aritmética de ponto flutuante é um superpoder! Evite surpresas e escreva código mais robusto. Nosso projeto te dá essa base. Confira: [Link para o Projeto] #Programacao #PontoFlutuante #CalculoNumerico #Desenvolvimento

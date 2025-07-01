@@ -1,0 +1,1 @@
+Você sabia que a forma como os dados são representados (binário, hexadecimal, ponto flutuante) é a base de tudo na computação? Entender isso é o primeiro passo para desvendar o hardware! Nosso projeto te ensina do zero. Acesse: [Link para o Projeto] #RepresentacaoDeDados #Binario #Fundamentos #CienciaDaComputacao

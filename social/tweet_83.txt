@@ -1,0 +1,1 @@
+💡 Dica de programação: Loops e condicionais são essenciais, mas a forma como você os estrutura pode afetar a predição de desvio da CPU. Pequenas mudanças podem gerar grandes ganhos de performance! Nosso projeto te ensina a pensar como o hardware. Confira: [Link para o Projeto] #OtimizacaoDeCodigo #Programacao #DesempenhoSoftware #CarreiraTech

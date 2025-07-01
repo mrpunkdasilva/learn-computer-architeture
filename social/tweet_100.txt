@@ -1,0 +1,1 @@
+Você já se perguntou por que seu jogo favorito roda tão bem, com gráficos incríveis? A arquitetura da GPU é a heroína por trás disso! Descubra como ela renderiza mundos virtuais no nosso projeto: [Link para o Projeto] #Jogos #Graficos #Hardware #Curiosidade

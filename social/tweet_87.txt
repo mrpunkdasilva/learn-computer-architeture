@@ -1,0 +1,1 @@
+💡 Dica de projeto: Se você sonha em construir seu próprio processador ou um chip customizado, aprender uma HDL é o primeiro passo. É desafiador, mas incrivelmente recompensador! Nosso projeto te dá a base para começar. Confira: [Link para o Projeto] #DIYHardware #EngenhariaEletronica #ProjetosTech #Aprendizado

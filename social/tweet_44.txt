@@ -1,0 +1,1 @@
+Você já se perguntou por que alguns programas travam quando você tenta fazer várias coisas ao mesmo tempo? Conflitos de threads e problemas de sincronização são os vilões! Entenda como evitá-los no nosso projeto: [Link para o Projeto] #Debugging #Programacao #Concorrencia #Software

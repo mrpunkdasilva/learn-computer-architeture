@@ -1,0 +1,11 @@
+THREAD: Interrupções e Exceções: O Que Acontece Quando o Inesperado Bate à Porta da CPU? 🚪💥
+
+1/ Seu computador está rodando liso, de repente, um erro, um clique do mouse, ou um pacote de rede chega. Como a CPU, que está ocupada, lida com isso? É aí que entram as Interrupções e Exceções!
+
+2/ Pense nelas como "alertas" para a CPU. Uma interrupção (hardware) pode vir de um teclado, disco rígido, ou timer. Uma exceção (software) é um evento inesperado gerado por um programa, como uma divisão por zero ou acesso a memória inválida.
+
+3/ Quando um desses eventos ocorre, a CPU para o que está fazendo, salva o contexto atual e salta para uma rotina especial (um "handler") que sabe como lidar com aquele tipo específico de alerta. É como um bombeiro que sabe exatamente o que fazer em cada tipo de incêndio!
+
+4/ Esse mecanismo é fundamental para o sistema operacional! Ele permite que o SO gerencie múltiplos programas, responda a eventos externos e lide com erros de forma controlada, sem travar a máquina. É a base da multitarefa e da robustez do sistema.
+
+5/ Quer desvendar como seu sistema operacional conversa com o hardware em momentos críticos? Nosso projeto 'Aprenda Arquitetura de Computadores' explora a fundo as interrupções e exceções, mostrando como elas são a espinha dorsal de um sistema computacional responsivo. Venha aprender a fundo! 👉 [Link para o Projeto] #Interrupcoes #Excecoes #SistemasOperacionais #ArquiteturaDeComputadores #ProgramacaoDeBaixoNivel

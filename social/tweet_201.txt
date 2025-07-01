@@ -1,0 +1,1 @@
+🚀 A integração heterogênea não é só sobre CPUs. Ela permite combinar diferentes tipos de processadores (CPU, GPU, NPU) e memórias no mesmo pacote, criando sistemas mais poderosos e eficientes para IA e outras cargas de trabalho complexas. Entenda essa revolução com a gente! Acesse: [Link para o Projeto] #IA #NPU #Hardware #Inovacao

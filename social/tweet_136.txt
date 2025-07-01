@@ -1,0 +1,1 @@
+Você já se perguntou por que seu processador tem tantos transistores? Muitos deles são dedicados a otimizações como a execução fora de ordem, que buscam extrair o máximo de paralelismo das suas instruções! Descubra os detalhes no nosso projeto: [Link para o Projeto] #Transistores #CPU #Hardware #Curiosidade

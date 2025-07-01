@@ -1,0 +1,1 @@
+🤔 Já se perguntou sobre a diferença entre RAM e ROM? RAM é volátil (armazenamento temporário), enquanto ROM é não volátil (armazenamento permanente para instruções de inicialização). Saiba mais em nosso projeto! #Memoria #HardwareDeComputador

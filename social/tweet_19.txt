@@ -1,0 +1,1 @@
+🤔 Von Neumann ou Harvard? Essa não é uma pergunta de faculdade, é a base de como seu computador acessa dados e instruções! Entender a diferença é crucial para otimizar sistemas embarcados e até mesmo para entender por que alguns bugs acontecem. Curioso? Nosso projeto explica! [Link para o Projeto] #VonNeumann #HarvardArchitecture #SistemasEmbarcados #Hardware

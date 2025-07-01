@@ -1,0 +1,1 @@
+Você já usou um serviço na nuvem como AWS, Azure ou Google Cloud? Por trás de cada instância que você cria, há muita virtualização acontecendo! Entenda os bastidores da nuvem no nosso projeto: [Link para o Projeto] #Cloud #AWS #Azure #GoogleCloud #CuriosidadeTech

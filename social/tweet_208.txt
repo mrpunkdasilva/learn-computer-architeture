@@ -1,0 +1,1 @@
+Você já se perguntou como a Netflix consegue codificar tantos vídeos em tempo real? Eles usam FPGAs em seus data centers para acelerar o processamento de vídeo! Descubra os detalhes no nosso projeto: [Link para o Projeto] #Netflix #VideoProcessing #DataCenter #Curiosidade

@@ -1,0 +1,1 @@
+Você já se perguntou como o sistema operacional consegue controlar o brilho da sua tela ou o volume do som? Ele faz isso escrevendo em registradores de hardware que são acessíveis via MMIO ou PMIO! Descubra os detalhes no nosso projeto: [Link para o Projeto] #SistemaOperacional #Drivers #Hardware #Curiosidade

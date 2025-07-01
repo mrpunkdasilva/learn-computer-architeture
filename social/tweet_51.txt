@@ -1,0 +1,1 @@
+💡 Dica de leitura: Para entender a fundo a arquitetura, comece com os clássicos! Livros como "Computer Organization and Design" (Patterson & Hennessy) são referências. Nosso projeto complementa essa leitura com exemplos práticos e discussões. Confira! [Link para o Projeto] #LivrosTech #Estudo #Recomendacao #ArquiteturaDeComputadores

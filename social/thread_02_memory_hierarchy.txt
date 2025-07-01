@@ -1,0 +1,11 @@
+THREAD: Entendendo a Hierarquia de Memória! 🧠
+
+1/ Por que seu computador tem diferentes tipos de memória? A resposta está na hierarquia de memória, um conceito fundamental para otimizar desempenho e custo. Vamos explorar!
+
+2/ No topo da hierarquia, temos os registradores da CPU e a memória cache (L1, L2, L3). São as memórias mais rápidas e caras, usadas para dados acessados com frequência. #CacheMemory #Performance
+
+3/ Abaixo da cache, vem a RAM (Memória de Acesso Aleatório). Mais lenta que a cache, mas muito maior e mais barata. É onde a maioria dos programas e dados ativos residem. #RAM #MemoriaPrincipal
+
+4/ Na base da hierarquia, encontramos o armazenamento secundário: SSDs, HDDs e fitas magnéticas. São as memórias mais lentas e baratas, usadas para armazenamento de longo prazo. #Armazenamento #SSDs
+
+5/ O objetivo da hierarquia é simples: ter a maior parte dos dados que a CPU precisa na memória mais rápida possível, minimizando o custo total do sistema. É um equilíbrio inteligente! #ArquiteturaDeComputadores #Otimizacao

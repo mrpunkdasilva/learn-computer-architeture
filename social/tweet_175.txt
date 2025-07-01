@@ -1,0 +1,1 @@
+💡 Dica de segurança: Mantenha o firmware dos seus dispositivos (placa-mãe, SSD, roteador) sempre atualizado! Muitas vulnerabilidades de segurança são corrigidas nesse nível, protegendo seu hardware de ataques sofisticados. Nosso projeto explica o porquê! [Link para o Projeto] #Seguranca #FirmwareUpdate #HardwareSecurity #DicasDeTI

@@ -1,0 +1,1 @@
+Você já se perguntou por que alguns processadores são mais eficientes em certas tarefas? O design do conjunto de registradores e como o compilador os utiliza faz uma grande diferença! Descubra os detalhes no nosso projeto: [Link para o Projeto] #CPU #Compiladores #Hardware #Curiosidade

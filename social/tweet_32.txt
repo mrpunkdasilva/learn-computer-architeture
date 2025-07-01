@@ -1,0 +1,1 @@
+Você já parou para pensar na complexidade por trás de um simples 'Ctrl+C, Ctrl+V'? É uma orquestra de hardware e software! Nosso projeto te convida a reger essa orquestra. Venha aprender os bastidores: [Link para o Projeto] #CuriosidadeTech #HardwareSoftware #Engenharia

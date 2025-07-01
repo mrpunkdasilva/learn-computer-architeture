@@ -1,0 +1,1 @@
+Você já se perguntou por que alguns programas usam 100% de um núcleo e outros distribuem a carga por todos? A forma como o software é escrito para aproveitar (ou não) o paralelismo faz toda a diferença! Entenda os porquês no nosso projeto: [Link para o Projeto] #CPUUsage #SoftwareDesign #Desempenho #Curiosidade

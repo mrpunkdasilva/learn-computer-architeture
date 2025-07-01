@@ -1,0 +1,13 @@
+THREAD: Escalonamento de CPU e Troca de Contexto: A Arte de Gerenciar o Tempo do Seu Processador! ⏱️🔄
+
+1/ Seu computador executa dezenas de programas ao mesmo tempo, dando a impressão de que a CPU está fazendo tudo simultaneamente. Mas como o Sistema Operacional gerencia o tempo limitado do processador entre tantas tarefas? É o Escalonamento de CPU e a Troca de Contexto!
+
+2/ O **Escalonador de CPU** é a parte do Sistema Operacional que decide qual processo ou thread deve usar a CPU em um determinado momento. Ele usa algoritmos complexos (Round Robin, Prioridade, SJF, etc.) para garantir justiça, eficiência e responsividade.
+
+3/ Pense em um único chef (a CPU) que precisa preparar vários pratos (processos/threads). O escalonador é o gerente que decide qual prato o chef deve trabalhar agora, por quanto tempo, e quando ele deve mudar para outro prato.
+
+4/ A **Troca de Contexto (Context Switch)** é o processo de salvar o estado atual de um processo (registradores da CPU, contador de programa, etc.) e carregar o estado de outro processo para que ele possa continuar sua execução. É como o chef trocando de receita e pegando os ingredientes certos para o próximo prato.
+
+5/ A troca de contexto tem um custo! Ela consome ciclos da CPU e pode invalidar caches, impactando o desempenho. Por isso, os sistemas operacionais tentam minimizar o número de trocas de contexto, mas elas são essenciais para a multitarefa.
+
+6/ Entender o escalonamento de CPU e a troca de contexto é fundamental para quem desenvolve sistemas operacionais, otimiza aplicações de alta performance ou simplesmente quer compreender como seu PC gerencia o tempo. Quer desvendar os segredos por trás da multitarefa do seu computador? Nosso projeto 'Aprenda Arquitetura de Computadores' te guia por essa jornada! 👉 [Link para o Projeto] #EscalonamentoCPU #TrocaDeContexto #SistemaOperacional #Multitarefa #ArquiteturaDeComputadores

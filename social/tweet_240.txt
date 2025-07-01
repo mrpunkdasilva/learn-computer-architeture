@@ -1,0 +1,1 @@
+Você já se perguntou como seu celular pode reconhecer sua voz ou seu rosto tão rapidamente, mesmo sem conexão com a internet? Chips neuromórficos ou NPUs (Neural Processing Units) são parte da resposta! Descubra os detalhes no nosso projeto: [Link para o Projeto] #NPU #MobileAI #ReconhecimentoDePadroes #Curiosidade

@@ -1,0 +1,1 @@
+💡 Dica de otimização: Se seu programa está sofrendo com muitas trocas de contexto, pode ser um sinal de que ele está fazendo muitas operações de I/O ou esperando por recursos. Otimizar essas esperas pode melhorar muito o desempenho! Nosso projeto explica o porquê. Confira: [Link para o Projeto] #OtimizacaoDeCodigo #DesempenhoSoftware #SistemaOperacional #CarreiraTech

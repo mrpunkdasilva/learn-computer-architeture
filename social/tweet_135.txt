@@ -1,0 +1,1 @@
+💡 Dica de otimização: Embora a execução fora de ordem seja automática, escrever código com menos dependências de dados pode ajudar o processador a encontrar mais oportunidades para otimizar! Nosso projeto te ensina a pensar como o hardware. Confira: [Link para o Projeto] #OtimizacaoDeCodigo #Programacao #DesempenhoSoftware #CarreiraTech

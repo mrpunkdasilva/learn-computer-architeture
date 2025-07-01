@@ -1,0 +1,1 @@
+💡 Dica de segurança: Mantenha seu sistema operacional e firmware atualizados! Muitas correções para ataques de canal lateral são implementadas via software, mesmo que a vulnerabilidade seja no hardware. Nosso projeto explica o porquê! [Link para o Projeto] #Seguranca #Atualizacao #Firmware #DicasDeTI

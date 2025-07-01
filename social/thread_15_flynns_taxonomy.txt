@@ -1,0 +1,13 @@
+THREAD: Taxonomia de Flynn: Como Classificamos os Computadores! 📊💻
+
+1/ Você já se perguntou como os supercomputadores, seu PC e até seu celular se encaixam em diferentes categorias de processamento? A Taxonomia de Flynn é a ferramenta clássica para isso, classificando arquiteturas com base em fluxos de instrução e dados!
+
+2/ **SISD (Single Instruction, Single Data):** O modelo mais tradicional. Um único processador executa uma instrução por vez em um único fluxo de dados. Seu PC antigo, ou um microcontrolador simples, se encaixa aqui. É o "um por um".
+
+3/ **SIMD (Single Instruction, Multiple Data):** Uma única instrução opera sobre múltiplos dados simultaneamente. Pense nas GPUs! Elas são mestres em SIMD, perfeitas para gráficos e IA, onde a mesma operação é aplicada a muitos pixels ou pontos de dados. É o "um para muitos".
+
+4/ **MISD (Multiple Instruction, Single Data):** Múltiplas instruções operam sobre um único fluxo de dados. É o menos comum na prática, mas pode ser visto em sistemas de tolerância a falhas, onde várias unidades processam os mesmos dados para verificar consistência. É o "muitos para um".
+
+5/ **MIMD (Multiple Instruction, Multiple Data):** Múltiplas instruções operam sobre múltiplos fluxos de dados. É o modelo mais flexível e poderoso, usado em supercomputadores, clusters e até em CPUs multi-core. Cada núcleo pode executar uma instrução diferente em dados diferentes. É o "muitos para muitos"!
+
+6/ Entender a Taxonomia de Flynn é fundamental para compreender as capacidades e limitações de diferentes arquiteturas, e para escolher a plataforma certa para cada tipo de problema. Quer desvendar essas classificações e ver como elas moldam o mundo da computação? Nosso projeto 'Aprenda Arquitetura de Computadores' te guia por essa jornada! 👉 [Link para o Projeto] #FlynnTaxonomy #SIMD #MIMD #ArquiteturaDeComputadores #Paralelismo

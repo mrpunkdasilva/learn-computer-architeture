@@ -1,0 +1,1 @@
+💡 Dica de performance: Se seu PC está lento, pode não ser só a RAM! A forma como os programas usam a cache da CPU faz uma diferença enorme. Nosso projeto te ensina a identificar esses gargalos e otimizar! Confira: [Link para o Projeto] #Otimizacao #PerformancePC #DicasDeHardware

@@ -1,0 +1,1 @@
+Você já se perguntou como seu processador consegue gerenciar tantos núcleos e caches sem "engasgar"? As Redes On-Chip (NoC) são a resposta, garantindo que os dados fluam livremente! Descubra os detalhes no nosso projeto: [Link para o Projeto] #CPU #Multicore #Desempenho #Curiosidade

@@ -1,0 +1,1 @@
+💡 Dica de otimização: Se seu PC está constantemente acessando o disco (luz do HDD/SSD piscando muito) e lento, pode ser que ele esteja sofrendo de thrashing devido à falta de RAM. Adicionar mais RAM pode resolver! Nosso projeto explica o porquê. Confira: [Link para o Projeto] #UpgradePC #RAM #Desempenho #DicasDeHardware

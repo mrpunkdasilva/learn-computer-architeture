@@ -1,0 +1,1 @@
+Você já se perguntou como a cache da CPU consegue encontrar os dados tão rápido? As TLBs (Translation Lookaside Buffers), que usam princípios de CAM, são parte da resposta! Descubra os detalhes no nosso projeto: [Link para o Projeto] #Cache #TLB #CPU #Curiosidade

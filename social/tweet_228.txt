@@ -1,0 +1,1 @@
+Você já se perguntou por que programas de 32 bits têm um limite de 4GB de memória, mesmo em PCs com mais RAM? É por causa do espaço de endereçamento virtual! Descubra os detalhes no nosso projeto: [Link para o Projeto] #32bit #64bit #Memoria #Curiosidade

@@ -1,0 +1,15 @@
+THREAD: Memory-Mapped I/O vs. Port-Mapped I/O: Como a CPU Conversa com os Periféricos! 🗣️🔌
+
+1/ Seu processador precisa se comunicar com todos os periféricos (teclado, mouse, placa de vídeo, rede...). Mas como essa conversa acontece? Existem duas abordagens principais: Memory-Mapped I/O e Port-Mapped I/O!
+
+2/ **Memory-Mapped I/O (MMIO):** Aqui, os registradores dos dispositivos de I/O são mapeados para endereços na memória. A CPU acessa esses registradores usando as mesmas instruções de leitura e escrita de memória que usa para a RAM. É como se o periférico fosse uma parte da memória.
+
+3/ Vantagens do MMIO: Simplicidade para o programador (usa as mesmas instruções de memória), flexibilidade (pode usar todos os modos de endereçamento da CPU) e maior largura de banda (aproveita o barramento de memória de alta velocidade).
+
+4/ **Port-Mapped I/O (PMIO):** Nesta abordagem, os dispositivos de I/O têm um espaço de endereço separado da memória. A CPU usa instruções especiais de I/O (como `IN` e `OUT` no x86) para acessar os registradores dos periféricos. É como ter um canal de comunicação exclusivo para os dispositivos.
+
+5/ Vantagens do PMIO: Espaço de endereço de I/O separado (não "rouba" endereços da memória), o que pode simplificar o design de sistemas menores. Historicamente, era comum em arquiteturas como o x86.
+
+6/ Hoje, o **MMIO é a abordagem dominante** na maioria das arquiteturas modernas (ARM, RISC-V e até o x86 usa MMIO extensivamente). Ele simplifica o design do processador e do sistema, aproveitando a infraestrutura de memória de alta performance.
+
+7/ Entender como a CPU se comunica com os periféricos é fundamental para quem desenvolve drivers, sistemas embarcados ou simplesmente quer compreender a fundo o funcionamento do hardware. Quer desvendar esses segredos e ver como seu computador interage com o mundo? Nosso projeto 'Aprenda Arquitetura de Computadores' te guia por essa jornada! 👉 [Link para o Projeto] #MMIO #PMIO #IO #Perifericos #ArquiteturaDeComputadores #Hardware

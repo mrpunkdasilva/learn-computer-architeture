@@ -1,0 +1,1 @@
+💡 Dica de projeto: Quer começar a construir seus próprios dispositivos inteligentes? Um Arduino ou Raspberry Pi são ótimos pontos de partida! Entender a arquitetura por trás deles te dará superpoderes. Nosso projeto te ajuda a dar os primeiros passos! [Link para o Projeto] #Arduino #RaspberryPi #DIY #IoT #Projetos

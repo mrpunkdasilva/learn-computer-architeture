@@ -1,0 +1,1 @@
+Você já se perguntou por que seu computador tem tantos "portos" (USB, HDMI, Ethernet)? Cada um é uma interface para um tipo diferente de barramento externo, conectando seu PC ao mundo! Entenda essa rede de conexões no nosso projeto: [Link para o Projeto] #Conectividade #Portas #Hardware #CuriosidadeTech

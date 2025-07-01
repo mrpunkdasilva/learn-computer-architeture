@@ -1,0 +1,1 @@
+Você já se perguntou por que seu PC fica lento quando você abre muitos programas ao mesmo tempo? O escalonador de CPU está trabalhando duro para dividir o tempo do processador entre todos eles! Descubra os detalhes no nosso projeto: [Link para o Projeto] #Multitarefa #DesempenhoPC #SistemaOperacional #Curiosidade

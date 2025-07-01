@@ -1,0 +1,1 @@
+💡 Dica de servidor: Se você está montando um servidor ou um PC para trabalho crítico, considere memória ECC. Ela pode salvar seus dados e evitar dores de cabeça! Nosso projeto explica os prós e contras. Confira: [Link para o Projeto] #Servidor #DataCenter #Hardware #DicasDeTI

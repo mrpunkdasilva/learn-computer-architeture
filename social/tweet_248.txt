@@ -1,0 +1,1 @@
+Você já se perguntou como um site pode saber se você visitou outro site, mesmo sem cookies? Ataques de canal lateral baseados em cache podem vazar essa informação! Descubra os detalhes no nosso projeto: [Link para o Projeto] #Privacidade #WebSecurity #Cache #Curiosidade

@@ -1,0 +1,1 @@
+Você já se perguntou como seu celular processa áudio e vídeo em tempo real? Muitos chips dedicados a isso usam princípios VLIW para máxima eficiência! Descubra os detalhes no nosso projeto: [Link para o Projeto] #DSP #ProcessamentoDeSinal #Hardware #Curiosidade

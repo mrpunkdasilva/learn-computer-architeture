@@ -1,0 +1,1 @@
+🚀 A computação de alto desempenho (HPC) e a computação em nuvem são construídas sobre os pilares do paralelismo e da concorrência. Entender esses conceitos é fundamental para quem quer trabalhar com grandes volumes de dados e processamento massivo. Nosso projeto te prepara! Acesse: [Link para o Projeto] #HPC #CloudComputing #BigData #CarreiraTech

@@ -1,0 +1,1 @@
+Você já se perguntou por que alguns jogos rodam melhor em um PC do que em outro, mesmo com especificações parecidas? O design do preditor de desvio da CPU pode ser um fator! Descubra os detalhes no nosso projeto: [Link para o Projeto] #GamingPC #Hardware #Desempenho #Curiosidade

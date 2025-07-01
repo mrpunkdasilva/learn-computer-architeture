@@ -1,0 +1,1 @@
+Você já se perguntou como um vírus pode sobreviver mesmo depois de formatar o PC? Alguns malwares podem se esconder no firmware ou em componentes de hardware! Entenda como isso é possível e como se proteger no nosso projeto: [Link para o Projeto] #Malware #Rootkit #SegurancaCibernetica #Curiosidade

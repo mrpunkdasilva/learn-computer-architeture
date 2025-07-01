@@ -1,0 +1,1 @@
+Você já se perguntou por que seu SSD é tão rápido? O DMA é uma das tecnologias por trás dessa velocidade, permitindo que os dados sejam transferidos diretamente para a memória sem sobrecarregar a CPU! Descubra os detalhes no nosso projeto: [Link para o Projeto] #SSD #Armazenamento #Hardware #Curiosidade

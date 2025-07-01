@@ -1,0 +1,1 @@
+Você já se perguntou por que alguns programas multi-threaded não escalam linearmente com o número de núcleos? A sobrecarga dos protocolos de coerência de cache pode ser um fator! Descubra os detalhes no nosso projeto: [Link para o Projeto] #Escalabilidade #Multicore #Performance #Curiosidade

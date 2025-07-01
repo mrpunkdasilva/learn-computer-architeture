@@ -1,0 +1,1 @@
+💡 Dica de leitura: Para quem quer se aprofundar em paralelismo, entender a diferença entre paralelismo de dados e de tarefas é crucial. A Taxonomia de Flynn é um ótimo ponto de partida! Nosso projeto expande esses conceitos. Confira: [Link para o Projeto] #Paralelismo #ComputacaoDeAltoDesempenho #HPC #Estudo

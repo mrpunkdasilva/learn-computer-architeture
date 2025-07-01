@@ -1,0 +1,1 @@
+💡 Dica de otimização: Em arquiteturas VLIW, a qualidade do compilador é ainda mais crítica para o desempenho. Um bom compilador pode extrair muito mais paralelismo do seu código! Nosso projeto te ajuda a entender essa relação. Confira: [Link para o Projeto] #OtimizacaoDeCodigo #Compiladores #DesempenhoSoftware #CarreiraTech

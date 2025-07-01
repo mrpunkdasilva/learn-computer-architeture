@@ -1,0 +1,1 @@
+Você já se perguntou por que seu celular consegue rodar modelos de IA complexos com tanta eficiência? Muitas vezes, é graças a um chip neural dedicado (NPU) dentro dele! Descubra como esses aceleradores funcionam no nosso projeto: [Link para o Projeto] #NPU #MobileAI #Hardware #Curiosidade

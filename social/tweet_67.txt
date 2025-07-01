@@ -1,0 +1,1 @@
+💡 Dica de programação: Ao escrever código, pense em como ele pode ser dividido em tarefas independentes. Isso abre portas para o paralelismo e um desempenho muito maior! Nosso projeto te dá a base para essa mentalidade. Confira: [Link para o Projeto] #ProgramacaoParalela #OtimizacaoDeCodigo #Desenvolvimento

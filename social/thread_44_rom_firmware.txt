@@ -1,0 +1,13 @@
+THREAD: ROM e Firmware: A Memória que Dá Vida ao Seu Hardware! 💡💾
+
+1/ Seu computador tem RAM, que é volátil, e SSD/HDD, que guarda seus arquivos. Mas existe um tipo de memória que é a primeira a "acordar" quando você liga o PC, e que guarda as instruções essenciais para o hardware funcionar: a ROM (Read-Only Memory) e o Firmware!
+
+2/ A **ROM** é uma memória não volátil, ou seja, ela mantém os dados mesmo sem energia. Ela é usada para armazenar o **Firmware**, que é um software de baixo nível que controla o hardware. Pense nele como o "sistema operacional" do seu chip ou dispositivo.
+
+3/ O exemplo mais conhecido de firmware é a **BIOS/UEFI** na sua placa-mãe. Ela é responsável por inicializar o hardware, fazer o POST (Power-On Self-Test) e carregar o sistema operacional. Sem ela, seu PC não saberia nem como ligar!
+
+4/ Mas o firmware não está só na placa-mãe! Seu SSD tem firmware, sua placa de vídeo tem firmware, seu roteador, seu teclado... Quase todo dispositivo eletrônico tem um firmware que dita seu comportamento e permite que ele se comunique com o resto do sistema.
+
+5/ A importância do firmware é imensa: ele garante a compatibilidade, o desempenho e a segurança do hardware. Atualizações de firmware podem trazer novas funcionalidades, corrigir bugs e, crucialmente, fechar vulnerabilidades de segurança.
+
+6/ Quer desvendar os segredos por trás da memória que dá vida ao seu hardware e entender como o firmware é a ponte entre o silício e o software? Nosso projeto 'Aprenda Arquitetura de Computadores' te guia por esse universo fundamental! 👉 [Link para o Projeto] #ROM #Firmware #BIOS #UEFI #Hardware #ArquiteturaDeComputadores

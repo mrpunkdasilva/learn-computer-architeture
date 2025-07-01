@@ -1,0 +1,13 @@
+THREAD: Interrupções e Exceções: Os Eventos que Moldam o Comportamento do Seu Sistema! 🚨💻
+
+1/ Seu computador está rodando um programa, e de repente, o mouse se move, um pacote de rede chega, ou um erro acontece. Como a CPU, que está ocupada, lida com esses eventos inesperados? Através de Interrupções e Exceções!
+
+2/ **Interrupções** são eventos externos à CPU, geralmente gerados por hardware. Pense no teclado (você digitou algo), um timer (o relógio do sistema), ou uma placa de rede (chegou um dado). Elas são assíncronas e avisam a CPU que algo precisa de atenção.
+
+3/ **Exceções** são eventos internos à CPU, gerados pelo próprio programa ou por condições anormais. Uma divisão por zero, um acesso a uma área de memória proibida (segmentation fault), ou uma instrução inválida. Elas são síncronas e indicam um problema ou uma condição especial.
+
+4/ Quando uma interrupção ou exceção ocorre, a CPU para o que está fazendo, salva o estado atual do programa (para poder voltar depois!) e salta para uma rotina específica (um "handler" ou "rotina de serviço de interrupção"). É como um médico de emergência que sabe exatamente como lidar com cada tipo de caso.
+
+5/ Esse mecanismo é a espinha dorsal dos sistemas operacionais modernos! Ele permite a multitarefa (o SO pode interromper um programa para rodar outro), a comunicação com periféricos e a robustez do sistema ao lidar com erros sem travar tudo.
+
+6/ Quer desvendar como seu sistema operacional gerencia esses eventos críticos e como eles são a base para um computador responsivo e seguro? Nosso projeto 'Aprenda Arquitetura de Computadores' mergulha a fundo nesse tema vital! 👉 [Link para o Projeto] #Interrupcoes #Excecoes #SistemaOperacional #ArquiteturaDeComputadores #ProgramacaoDeBaixoNivel

@@ -1,0 +1,1 @@
+Você já se perguntou por que um programa dá "erro de proteção geral" ou "falha de segmentação"? É o sistema de proteção de memória agindo, impedindo que o programa acesse uma área proibida! Descubra os detalhes no nosso projeto: [Link para o Projeto] #Debugging #ErrosDeProgramacao #SistemaOperacional #Curiosidade

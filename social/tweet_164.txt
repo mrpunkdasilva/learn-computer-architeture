@@ -1,0 +1,1 @@
+Você já se perguntou por que seu PC não trava completamente quando um programa dá erro? É o sistema de exceções agindo, permitindo que o SO intercepte o problema e, na maioria das vezes, encerre apenas o programa problemático! Descubra os detalhes no nosso projeto: [Link para o Projeto] #Debugging #EstabilidadePC #SistemaOperacional #Curiosidade

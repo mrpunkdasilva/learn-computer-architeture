@@ -1,0 +1,1 @@
+Você já se perguntou por que um programa que faz muitas operações de `if/else` pode ser mais lento do que um que faz cálculos complexos? Os hazards de controle (erros de predição de desvio) podem ser os culpados! Descubra os detalhes no nosso projeto: [Link para o Projeto] #BranchPrediction #Desempenho #Software #Curiosidade

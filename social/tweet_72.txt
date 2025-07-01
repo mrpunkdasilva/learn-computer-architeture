@@ -1,0 +1,1 @@
+Você já se perguntou por que um programa dá "erro de segmentação" ou "acesso inválido à memória"? É a MMU agindo! Ela detectou que o programa tentou acessar uma área de memória que não lhe pertencia. Entenda esses erros no nosso projeto: [Link para o Projeto] #Debugging #ErrosDeProgramacao #Memoria #Curiosidade

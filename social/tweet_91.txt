@@ -1,0 +1,1 @@
+💡 Dica de segurança: Mantenha seu firmware (BIOS/UEFI) sempre atualizado! Muitas correções de segurança importantes são aplicadas nesse nível, protegendo seu hardware de ataques de baixo nível. Nosso projeto te ajuda a entender o porquê! [Link para o Projeto] #Firmware #BIOS #UEFI #Seguranca #Atualizacao

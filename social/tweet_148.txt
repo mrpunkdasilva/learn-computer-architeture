@@ -1,0 +1,1 @@
+Você já se perguntou como seria projetar seu próprio processador? Com o RISC-V, essa ideia está mais acessível do que nunca! Descubra as ferramentas e os conceitos necessários no nosso projeto: [Link para o Projeto] #DIYHardware #DesignDeChips #RISCV #Curiosidade

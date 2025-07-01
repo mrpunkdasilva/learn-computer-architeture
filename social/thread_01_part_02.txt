@@ -1,0 +1,1 @@
+2/ Dentro da CPU, você encontrará componentes chave como a Unidade Lógica Aritmética (ULA) para operações matemáticas, Unidade de Controle (UC) para o fluxo de instruções e Registradores para armazenamento temporário de dados. Cada um desempenha um papel vital! #CPU #ComoComputadoresFuncionam

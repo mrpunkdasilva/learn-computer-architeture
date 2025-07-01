@@ -1,0 +1,1 @@
+Você já se perguntou por que um processador com um clock mais baixo pode ser mais rápido que um com clock mais alto? A eficiência do pipeline (quantas instruções por ciclo ele executa) é um fator crucial! Descubra os detalhes no nosso projeto: [Link para o Projeto] #ClockSpeed #IPC #Desempenho #Curiosidade

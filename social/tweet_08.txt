@@ -1,0 +1,1 @@
+💡 Você sabia que a forma como os dados são organizados na memória afeta diretamente o desempenho do seu código? Entender a localidade de referência é chave! Nosso projeto aborda isso. #Programacao #OtimizacaoDeCodigo

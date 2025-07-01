@@ -1,0 +1,1 @@
+💡 Dica de Big Data: Em clusters de Big Data, a rede de interconexão é tão importante quanto os processadores e o armazenamento. Um gargalo na rede pode matar o desempenho de todo o sistema! Nosso projeto explica o porquê. Confira: [Link para o Projeto] #BigData #Clusters #Redes #Desempenho

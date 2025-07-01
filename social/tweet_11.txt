@@ -1,0 +1,1 @@
+💡 Dica: Entender como a CPU lida com interrupções é crucial para sistemas operacionais e programação de baixo nível. É a forma como o hardware e o software se comunicam em eventos inesperados! #SistemasOperacionais #Programacao

@@ -1,0 +1,1 @@
+💡 Dica de programação: Se você trabalha com finanças ou ciência, esteja ciente dos erros de arredondamento de ponto flutuante! Use tipos de dados apropriados (como decimais fixos) ou bibliotecas de alta precisão quando a exatidão for crítica. Nosso projeto explica os detalhes! [Link para o Projeto] #Programacao #PontoFlutuante #CalculoNumerico #Desenvolvimento

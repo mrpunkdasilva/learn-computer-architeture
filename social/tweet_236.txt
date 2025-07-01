@@ -1,0 +1,1 @@
+Você já se perguntou por que um sistema operacional de 64 bits pode usar mais de 4GB de RAM, enquanto um de 32 bits não? É tudo sobre como o SO e o hardware (MMU) gerenciam o espaço de endereçamento! Descubra os detalhes no nosso projeto: [Link para o Projeto] #32bit #64bit #RAM #Curiosidade

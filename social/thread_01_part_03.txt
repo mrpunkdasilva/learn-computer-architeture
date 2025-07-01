@@ -1,0 +1,1 @@
+3/ A CPU segue um ciclo de busca-decodificação-execução. Ela busca uma instrução da memória, a decodifica para entender o que fazer e, em seguida, executa a operação. Isso acontece milhões de vezes por segundo! #EducacaoEmCienciaDaComputacao

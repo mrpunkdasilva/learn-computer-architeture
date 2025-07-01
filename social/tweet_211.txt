@@ -1,0 +1,1 @@
+💡 Dica de manutenção: Desfragmentar seu HDD (se ainda usa um!) ou garantir que seu SSD tenha espaço livre suficiente são práticas que otimizam o desempenho do sistema de arquivos. Nosso projeto explica o porquê! Confira: [Link para o Projeto] #ManutencaoPC #Desfragmentacao #SSD #DicasDeTI

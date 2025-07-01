@@ -1,0 +1,1 @@
+💡 Dica de solução de problemas: Se seu PC não liga, o "beep code" da BIOS/UEFI pode te dar pistas sobre o problema! Cada sequência de bips indica um erro de hardware específico. Nosso projeto te ajuda a entender esses sinais. Confira: [Link para o Projeto] #Troubleshooting #PCRepair #Hardware #DicasDeTI

@@ -1,0 +1,1 @@
+💡 Dica para aspirantes a arquitetos de computadores: Comece com o básico! Entender a lógica booleana e os circuitos digitais é crucial antes de abordar designs complexos de CPU. Nosso projeto cobre isso! #CienciaDaComputacao #LogicaDigital

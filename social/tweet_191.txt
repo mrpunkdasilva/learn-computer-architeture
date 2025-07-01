@@ -1,0 +1,1 @@
+💡 Dica de programação: Se você trabalha com Python e bibliotecas como NumPy, você já está usando o poder dos processadores vetoriais sem saber! Essas bibliotecas otimizam operações para aproveitar as extensões vetoriais da CPU. Nosso projeto explica como! [Link para o Projeto] #NumPy #Python #OtimizacaoDeCodigo #DataScience

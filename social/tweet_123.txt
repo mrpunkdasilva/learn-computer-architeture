@@ -1,0 +1,1 @@
+💡 Dica de curiosidade: A capacidade de atualizar o microcódigo da CPU via software é uma das razões pelas quais seu sistema operacional pode aplicar patches de segurança para o processador! Nosso projeto explica como isso funciona. Confira: [Link para o Projeto] #Seguranca #Firmware #CPU #Atualizacao

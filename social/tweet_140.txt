@@ -1,0 +1,1 @@
+Você já se perguntou por que um processador com menos GHz pode ser mais rápido que um com mais? A arquitetura superscalar, com sua capacidade de executar múltiplas instruções por ciclo, é um dos fatores chave! Descubra os detalhes no nosso projeto: [Link para o Projeto] #GHz #Processadores #Desempenho #Curiosidade

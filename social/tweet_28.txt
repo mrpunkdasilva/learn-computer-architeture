@@ -1,0 +1,1 @@
+💡 Dica rápida: A latência da memória é um fator crítico no desempenho da CPU. Não é só a quantidade de RAM, mas a velocidade com que ela responde. Nosso projeto explora como isso afeta tudo, do seu jogo favorito ao seu código! Saiba mais: [Link para o Projeto] #Latencia #Memoria #Desempenho #Hardware

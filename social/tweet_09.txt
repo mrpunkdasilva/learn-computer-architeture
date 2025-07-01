@@ -1,0 +1,1 @@
+🚀 Explorando o mundo das instruções! Cada CPU tem um conjunto de instruções (ISA) que ela entende. É a linguagem que o hardware fala. Fascinante, não é? #ISA #Assembly

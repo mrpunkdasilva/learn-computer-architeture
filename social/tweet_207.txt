@@ -1,0 +1,1 @@
+💡 Dica de projeto: Se você tem uma ideia para um hardware customizado, mas não quer gastar milhões com um ASIC, uma FPGA pode ser o caminho! É uma ótima forma de aprender design de hardware na prática. Nosso projeto te dá a base para começar! [Link para o Projeto] #DIYHardware #FPGA #ProjetosTech #Aprendizado

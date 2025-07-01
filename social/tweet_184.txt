@@ -1,0 +1,1 @@
+Você já se perguntou por que os SSDs têm uma vida útil limitada de escrita? É por causa do desgaste das células Flash! O controlador do SSD usa técnicas como "wear leveling" para distribuir as escritas e prolongar a vida útil. Descubra os detalhes no nosso projeto: [Link para o Projeto] #SSD #Durabilidade #Hardware #Curiosidade

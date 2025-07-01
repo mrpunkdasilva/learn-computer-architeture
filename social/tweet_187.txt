@@ -1,0 +1,1 @@
+💡 Dica de conectividade: Ao escolher periféricos, verifique sempre a interface de I/O! Um monitor 4K, por exemplo, precisa de uma porta HDMI 2.0 ou DisplayPort para funcionar em sua resolução e taxa de atualização máxima. Nosso projeto te ajuda a fazer escolhas inteligentes! [Link para o Projeto] #Conectividade #Perifericos #Hardware #DicasDePC
